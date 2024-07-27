@@ -57,7 +57,7 @@ module.exports = {
 
 async function getMessage(yourMessage, langCode) {
 	try {
-		const res = await axios.get(`https://simsimi.fun/api/v2/?mode=talk&lang=en&message=${yourMessage}&filter=true`);
+		const res = await axios.get(`https://simsimi.site/api/v2/?mode=talk&lang=ph&message=${yourMessage}&filter=true`);
 		if (!res.data.success) {
 			throw new Error('API returned a non-successful message');
 		}
