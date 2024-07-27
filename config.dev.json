@@ -17,20 +17,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100052395031835",
-    ""
+    "100085330421655"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Kyle Bait-it",
-  "AGE": "19",
+  "OWNER": "Mark",
+  "AGE": "14",
   "GENDER": "MALE",
-  "nickNameBot": "≫ # ≪ ➣ 𝑍𝐸𝑃𝐻𝑌𝑅𝑈𝑆 𝘼𝙄𝘃𝟮𓃵",
-  "FACEBOOK": "https://www.facebook.com/kyleyukaro",
-  "prefix": "#",
+  "nickNameBot": "≫ / ≪ ➣ Maloi Bot",
+  "FACEBOOK": "https://www.facebook.com/markflurry14",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
